@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Faizan Shaikh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"/>
 
 
 - 🌱 I’m currently learning **MERN STACK**
